@@ -1,0 +1,9 @@
+.git
+server
+*.o
+*.a
+*.so
+build/
+bin/
+obj/
+*.log
