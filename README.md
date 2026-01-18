@@ -27,16 +27,6 @@ This is an educational / systems-level project, not a production web server.
 
 ---
 
-## Project Structure
-
-.
-├── src/
-│ └── main.c # HTTP server implementation
-├── Dockerfile # Multi-stage Docker build
-├── Makefile # Build / run / stop helpers
-├── .dockerignore
-└── README.md
-
 | Command        | Description                         |
 | -------------- | ----------------------------------- |
 | `make build`   | Build Docker image                  |
